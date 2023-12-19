@@ -1,1 +1,0 @@
-<?php $servertoken = 'bAOhAWMyWEoeQKhJOy';//max256 ?>
