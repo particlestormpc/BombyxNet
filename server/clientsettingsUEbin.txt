@@ -1,0 +1,10 @@
+HotUpdateFromWeb:1;
+EnableWebghost:1;
+GhostRate:.06125;
+Smoothing:4;
+ServerRoot:127.0.0.1;
+PublicPartyLobbyID:George;
+WebghostCountOffset:0;
+ISMArrayStartingOffset:0;
+ISMArrayEndingOffset:0;
+webghostToken:YourCustomTokenHere;
