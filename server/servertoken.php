@@ -1,0 +1,1 @@
+<?php $servertoken = 'YourCustomTokenGoesHere';//max256 ?>
