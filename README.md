@@ -1,2 +1,4 @@
 # BombyxNet
-Simple WIP Scripts for UE - PHP Networking
+Simple latent but agnostic UE - PHP networking scripts
+
+WIP
